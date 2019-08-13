@@ -9,5 +9,6 @@ public class DeptService {
 	void test() {
 		
 	}
+	void m1() {}
 
 }
